@@ -37,7 +37,7 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 
 
 
-### my wiring on [Falstad](https://is.gd/Fvn8bP)   
+### my wiring on [Falstad](https://is.gd/O34XgH)   
 
 
 <img width="736" height="537" alt="image" src="https://github.com/user-attachments/assets/bd9257d2-8099-42d3-96d2-e900cc0843c4" />
