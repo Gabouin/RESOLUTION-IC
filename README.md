@@ -25,7 +25,11 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 
 ## Wiring diagram 
 
+
+
 ### wiring from [instructable](https://www.instructables.com/LED-cube-using-4020-Ic-and-555-IC/)  
+
+
 
 <img width="1145" height="782" alt="image" src="https://github.com/user-attachments/assets/ec23ec08-f0db-4b34-a4e9-b48f119133e8" />
 
@@ -33,7 +37,8 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 
 
 
-### my wiring on [Falstad]((https://is.gd/Fvn8bP) 
+### my wiring on [Falstad](https://is.gd/Fvn8bP)   
+
 
 <img width="736" height="537" alt="image" src="https://github.com/user-attachments/assets/bd9257d2-8099-42d3-96d2-e900cc0843c4" />
 
