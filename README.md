@@ -55,3 +55,8 @@ I changed the instructable connections by having just 14 LEDs to represent the *
 
 For the real circuit, I'll be using 4.7uF for the whole thing to last aprox **10 minutes**.
 
+
+## Schematic and PCB
+
+
+
