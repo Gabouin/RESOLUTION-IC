@@ -27,17 +27,19 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 
 
 
-### Wiring from [instructable](https://www.instructables.com/LED-cube-using-4020-Ic-and-555-IC/) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; My wiring on [Falstad](https://is.gd/O34XgH) 
-
+### Wiring from [instructable](https://www.instructables.com/LED-cube-using-4020-Ic-and-555-IC/) 
 
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/ec23ec08-f0db-4b34-a4e9-b48f119133e8" />
+<br>
+
+### My wiring on [Falstad](https://is.gd/O34XgH) 
 <img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/bd9257d2-8099-42d3-96d2-e900cc0843c4" />
 
 <br>
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![IC](https://github.com/user-attachments/assets/d72ed655-9647-4156-816a-199e91de24b4)
+ ![IC](https://github.com/user-attachments/assets/d72ed655-9647-4156-816a-199e91de24b4)
 
 
 
@@ -64,7 +66,7 @@ For the real circuit, I'll be using 4.7uF for the whole thing to last aprox **10
 
 ### PCB on KiCad
 
-&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; <img width="625" height="611" alt="image" src="https://github.com/user-attachments/assets/7b4d89ce-9464-4a64-ab24-96e98b210559" />  
+<img width="625" height="611" alt="image" src="https://github.com/user-attachments/assets/7b4d89ce-9464-4a64-ab24-96e98b210559" />  
 
 > First step of the PCB, with all components correctly arranged and a GND pour around the LEDs
 <br>
