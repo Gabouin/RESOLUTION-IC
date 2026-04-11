@@ -27,23 +27,17 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 
 
 
-### wiring from [instructable](https://www.instructables.com/LED-cube-using-4020-Ic-and-555-IC/)  
+### Wiring from [instructable](https://www.instructables.com/LED-cube-using-4020-Ic-and-555-IC/) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; My wiring on [Falstad](https://is.gd/O34XgH) 
 
 
 
-<img width="1145" height="782" alt="image" src="https://github.com/user-attachments/assets/ec23ec08-f0db-4b34-a4e9-b48f119133e8" />
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/ec23ec08-f0db-4b34-a4e9-b48f119133e8" />
+<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/bd9257d2-8099-42d3-96d2-e900cc0843c4" />
 
-> 
+<br>
+<br>
 
-
-
-### my wiring on [Falstad](https://is.gd/O34XgH)   
-
-
-<img width="736" height="537" alt="image" src="https://github.com/user-attachments/assets/bd9257d2-8099-42d3-96d2-e900cc0843c4" />
-
-
-![IC](https://github.com/user-attachments/assets/d72ed655-9647-4156-816a-199e91de24b4)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![IC](https://github.com/user-attachments/assets/d72ed655-9647-4156-816a-199e91de24b4)
 
 
 
@@ -54,6 +48,22 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 I changed the instructable connections by having just 14 LEDs to represent the **14 stages the CD4020 has**. I also added a switch between R and +12V to have the possibility to **reset the circuit anytime** ! In the screenshot, the circuit has a 56nF capacitor (really small) to accelerate the process as Falstad is not using real time simulation.  
 
 For the real circuit, I'll be using 4.7uF for the whole thing to last aprox **10 minutes**.
+<br>  
+
+## Schematic and PCB
+
+
+### Schematic on KiCad
+
+<img width="1210" height="836" alt="image" src="https://github.com/user-attachments/assets/b7f0c6ba-5668-4d20-8305-05f8c41fbeff" />  
+<br>
+<br>
+
+
+> I used the Falstad's diagram I previously showed to make this schematic. 
+<br>
+<br>
+
 
 # LICENCE 
 
@@ -81,7 +91,6 @@ SOFTWARE.
 
 
 
-## Schematic and PCB
 
 
 
