@@ -13,7 +13,7 @@ After looking for examples on Google, I had the idea to make like a **Binary met
 | Component | Function |
 | ------------- | ------------- |
 | NE555P  | Precision Timer (Clock Source)|
-| CD4020B  | 12-Stage Binary Ripple Counter |
+| CD4020B  | 14-Stage Binary Ripple Counter |
 | LEDs  | Output indicators for each binary stage |
 
 ## Technical Specifications  
@@ -64,10 +64,22 @@ For the real circuit, I'll be using 4.7uF for the whole thing to last aprox **10
 
 ### PCB on KiCad
 
-&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; <img width="624" height="574" alt="image" src="https://github.com/user-attachments/assets/7ea49f24-dde2-49f5-a9ca-5df63caa7c0d" />  
+&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; <img width="625" height="611" alt="image" src="https://github.com/user-attachments/assets/7b4d89ce-9464-4a64-ab24-96e98b210559" />  
+
 > First step of the PCB, with all components correctly arranged and a GND pour around the LEDs
 <br>
 
+### Silckscreen on KiCad
+
+<img width="320" height="350" alt="Capture d&#39;écran 2026-04-12 010734" src="https://github.com/user-attachments/assets/783825f2-2362-49f4-96b6-fe6d9004dc31" />
+<img width="320" height="370" alt="Capture d&#39;écran 2026-04-12 011655" src="https://github.com/user-attachments/assets/243b5bd8-fa14-4666-9166-4cf335dd4716" />
+<img width="320" height="400" alt="Capture d&#39;écran 2026-04-12 011646" src="https://github.com/user-attachments/assets/8564962e-9e53-4424-9701-88216dd1e574" />
+
+<br>
+<br>  
+
+> Each LED represents a specific **power of 2** in the binary system. To find the current decimal value of the counter, simply **add up the values** of all the LEDs that are **currently turned on**.
+> It goes from 1 to 8 because the 2nd and 3rd stage of the CD4020 have no output to show on a LED. However, the time is still respected as the stage are well here.
 
 # LICENCE 
 
