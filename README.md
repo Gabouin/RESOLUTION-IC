@@ -1,5 +1,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/Resolution%20week%203)
+
 
 # 14-Bit Binary Ripple Counter using IC
 
